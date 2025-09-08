@@ -70,7 +70,8 @@ You can safely install them on your client — the server doesn’t need them.
 - [**Xaero’s Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) – minimap with waypoints  
 - [**Xaero’s World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) – fullscreen world map  
 - [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling) – better keybind management  
-- [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) – improved inventory controls  
+- [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) – improved inventory controls
+- [**BetterF3**]  ("https://www.curseforge.com/minecraft/mc-mods/betterf3") - Improved F3 Menu for better readability
 
 ---
 
