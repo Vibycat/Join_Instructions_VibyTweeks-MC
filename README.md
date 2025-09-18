@@ -22,9 +22,11 @@ You must install the matching Forge client.
 
 ## 2. Install the Modpack
 
-⚠️ **Important: You must install the mods provided in this repository.**
+⚠️ **Important: Only use the client-side packs.**  
+The `Server_Mods.7z` file is for the **server host only** — players should ignore it.  
 
-1. Download the contents of this repo "VibyTweeks_pack.zip (or the provided release `.zip`).  
+### Option A: Full VibyTweeks Pack
+1. Download **`Viby_Tweeks_pack.zip`**.  
 2. **Unzip/Extract the folder** — do not place the `.zip` file directly into your `mods` folder.  
    - After extracting, you should see a collection of `.jar` files (the mods).  
 3. Locate your Minecraft `mods` folder:  
@@ -35,20 +37,12 @@ You must install the matching Forge client.
    - 🚫 Do **not** leave them inside another subfolder.  
 5. Ensure you are launching with the **Forge 1.20.1** profile.
 
+### Option B: Client-Side Pack
+Alternatively, download **`Client_mods_VibyTweeks_pack.zip`**.  
+This contains optional client-only mods to enhance your experience.  
+These mods are safe to install on your client and won’t affect the server.
+
 ---
-
-### Example Directory (Windows)
-
-```text
-C:\Users\<YourName>\AppData\Roaming\.minecraft\mods\
-
-├── curios-forge-5.13.0+1.20.1.jar
-├── elytraslot-forge-6.4.4+1.20.1.jar
-├── farmersdelight-forge-1.20.1-2.9.jar
-├── ironchest-1.20.1-14.4.4.jar
-├── jei-1.20.1-forge-15.20.0.111.jar
-├── ... (other mod .jars)
-
 
 ## 3. Join the Server
 
@@ -70,8 +64,8 @@ You can safely install them on your client — the server doesn’t need them.
 - [**Xaero’s Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) – minimap with waypoints  
 - [**Xaero’s World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) – fullscreen world map  
 - [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling) – better keybind management  
-- [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) – improved inventory controls
-- [**BetterF3**]  ("https://www.curseforge.com/minecraft/mc-mods/betterf3") - Improved F3 Menu for better readability
+- [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) – improved inventory controls  
+- [**BetterF3**](https://www.curseforge.com/minecraft/mc-mods/betterf3) – improved F3 menu for better readability  
 
 ---
 
